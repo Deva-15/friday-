@@ -1,5 +1,3 @@
-# Friday
-
 # 🤖 Friday AI — Personal Voice Assistant
 
 > **Friday AI** is a personal desktop voice assistant built with Python, designed to understand voice commands, respond naturally, remember information, and automate tasks on the computer.
