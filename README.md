@@ -455,3 +455,6 @@ B.Tech — Computer Science & Engineering
 Friday AI is continuously being updated with new features and capabilities.
 
 **Built with Python, AI, and automation. 🤖**
+
+# Video
+
